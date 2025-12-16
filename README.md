@@ -126,10 +126,8 @@ Proyecto desarrollado con fines **educativos**, cumpliendo los criterios de:
 
 ## 📌 Autor
 
-- **Estudiante:** _(Completar)_
+- **Estudiante:** Cristian Duarte Santos
 - **Asignatura:** Desarrollo de Videojuegos
-- **Institución:** _(Completar)_
-
 ---
 
 ¡Gracias por revisar este proyecto! 🚀
